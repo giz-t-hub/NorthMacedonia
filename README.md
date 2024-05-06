@@ -39,7 +39,12 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 ### Climate and energy policies <a name="climate-energy-policies"></a> 
 
 - Mitigation:
- 
+     - National Communication (NC). NC4., 2023: https://unfccc.int/documents/6276
+     - National Inventory Report (NIR), 2023: https://unfccc.int/documents/627668
+     - First NDC (Updated submission), 2022: https://unfccc.int/documents/497726
+     - Biennial update report (BUR). BUR 3. National inventory report, 2021: https://unfccc.int/documents/278545
+     - Biennial update report (BUR). BUR 3., 2021: https://unfccc.int/documents/278546
+     - Long-Term Strategy on Climate Action and Action Plan, 2021: https://unfccc.int/documents/309566 
       
 - Adaptation
    
