@@ -50,13 +50,15 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
      - Long-Term Strategy on Climate Action and Action Plan, 2021: https://unfccc.int/documents/309566 
       
 - Adaptation
-   
+  - Resilient Skopje Climate Change Strategy, 2017: https://skopje.gov.mk/media/4051/resilient-skopje-strategy-eng.pdf
 
 - Energy policy 
     - [National Energy and Climate Plan (Draft, 2021)](https://www.energy-community.org/implementation/package/NECP.html)     
 
 
-### EU accession <a name="eu-accession"></a> 
+### EU accession and cooperation <a name="eu-accession"></a> 
+
+- 
 
 
 
@@ -66,15 +68,18 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Local Transport Plans <a name="local-transport-plans"></a>  
 
+- Skopje:
+  -   Green City Action Plan (GCAP), 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Skopje-GCAP-final-eng.pdf
+  -   Transport Master Plan for Greater Skopje, 2011: https://skopje.gov.mk/media/5245/transportmasterplanforgreaterskopjeen.pdf
 
 
 ### Studies and research papers <a name="studies-research"></a> 
 
-
+-
 
 ### International cooperation projects and strategies <a name="international-cooperation"></a> 
 
-
+- 
 
 ### Data <a name="data"></a>
 
