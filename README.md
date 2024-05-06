@@ -26,9 +26,10 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - Transport
   - Draft National Transport Strategy, December 2018: http://www.mtc.gov.mk/media/files/2019/NTS-final%20EN.pdf
-  - 
+    
 
 - General
+  - Development Framework of the Republic of North Macedonia (МKD 2030), 2022: https://mkd2030.mk/wp-content/uploads/2022/06/Ramka-za-razvoj-MKD2030-EN.pdf
 
 
 ### Other national and sectoral documents <a name="other-national-sectoral-documents"></a> 
