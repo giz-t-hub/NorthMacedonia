@@ -88,9 +88,6 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ### Data <a name="data"></a>
 
--
-
-
 - SLOCAT Transport, Climate and Sustainability Global Status Report: https://tcc-gsr.com/ 
 - SLOCAT Transport and Knowledge Base (TraKB):  https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
 - Asian Transport Outlook: https://asiantransportoutlook.com/ 
@@ -108,4 +105,4 @@ For more information about our work, please refer to:
 		
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of April 2024)
+- (as of May 2024)
