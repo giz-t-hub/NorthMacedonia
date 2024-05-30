@@ -16,7 +16,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Climate and energy policies](#climate-energy-policies) 
 - [EU accession](#eu-accession)
 - [Trade Facilitation](#trade-facilitation)  
-- [Local Transport Plans](#local-transport-plans) 
+- [Urban mobility plans, strategies, and concepts; local transport plans, etc](#local-transport-plans) 
 - [Studies and research papers](#studies-research) 
 - [International cooperation projects and strategies](#International-cooperation) 
 - [Data](#data) 
@@ -71,7 +71,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 
 - 
 
-### Local Transport Plans <a name="local-transport-plans"></a>  
+### Urban mobility plans, strategies, and concepts; local transport plans, etc <a name="local-transport-plans"></a>  
 
 - Skopje:
   -   Green City Action Plan (GCAP), 2020: https://ebrdgreencities.com/assets/Uploads/PDF/Skopje-GCAP-final-eng.pdf
